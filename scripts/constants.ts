@@ -1,0 +1,8 @@
+export const addresses = {
+  token: '0x41c826ec9b8b24FF26180338d58911b6F2149Fac',
+  nft: '0xf8b6faA62A74EAd61b84E76ebceCc578f1d07bFb',
+  usdt: '0xa2a3A4eF8238afc0f9D848B154BaDA8ba50ef6c5',
+  factory: '0x4EfF193de3Fb8b73f893d2636A98c85c6faA257F',
+  oracle: '0x0243b14188e6b3cc31C4c574f8Cd7987E26d750a',
+  generator: '0x63A4E199c5AC6949Bd76cB4C7aD81f56C8c459c2'
+}
